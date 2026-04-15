@@ -41,5 +41,12 @@ DEPLOY.md
 LOGGING.md
 MASTER.md
 TASKS.md
-docker-compose.yml
 idea.md
+
+# Docker (not used — deploying to EC2 directly)
+Dockerfile
+**/Dockerfile
+docker-compose.yml
+docker-compose.*.yml
+.dockerignore
+frontend/nginx.conf
