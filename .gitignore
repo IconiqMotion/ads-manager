@@ -33,3 +33,13 @@ logs/
 *.bak
 Untitled
 Untitled.*
+
+# Local-only docs / legacy files
+.env.example
+ARCHITECTURE.md
+DEPLOY.md
+LOGGING.md
+MASTER.md
+TASKS.md
+docker-compose.yml
+idea.md
